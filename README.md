@@ -1,3 +1,9 @@
+```md
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green)
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+
 # AI Code Reviewer - Backend
 
 Back-end do projeto **AI Code Reviewer**, uma aplicação Full Stack com Inteligência Artificial para análise automática de código-fonte baseada em princípios de **SOLID** e **Clean Code**.
