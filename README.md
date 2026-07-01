@@ -79,6 +79,6 @@ Autenticação com JWT
 Persistência com banco de dados
 Suporte para múltiplas linguagens
 Score de qualidade do código
-Autor
 
-Bruno Lima
+Autor
+Bruno de Lima
